@@ -1,0 +1,18 @@
+﻿---
+description: Documentar TODO el trabajo de Campusly en el vault Obsidian
+alwaysApply: true
+---
+
+# Documentación en Obsidian
+
+Vault: `D:\Obsidian\LuisDev\Campusly`
+
+Tras cada avance relevante (decisión, feature, cambio de arquitectura, resolución de pendiente), actualizar Obsidian:
+
+- `Campusly-Indice.md` — índice y estado
+- `01-Producto/` — especificación y producto
+- `02-Desarrollo/` — plan y avances técnicos
+- `03-Decisiones/` — ADRs / decisiones
+- `04-Diario/` — bitácora por fecha `YYYY-MM-DD-*.md`
+
+Fuentes de verdad de producto: `Especificacion-Sistema-Gestor` y `Plan-Desarrollo-Gestor-Escolar`.
